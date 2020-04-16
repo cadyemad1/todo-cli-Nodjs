@@ -1,1 +1,9 @@
-[{"id":2,"title":"newTodo2"},{"id":4,"title":"newTodo4"}]
+[
+  { "id": 1, "title": "newTodo", "status": "todo" },
+  { "id": 2, "title": "test2", "status": "todo" },
+  { "id": 4, "title": "changedAgain", "status": "done" },
+  { "id": 5, "title": "test5", "status": "todo" },
+  { "id": 6, "title": "changetst4", "status": "done" },
+  { "id": 10, "title": "test6", "status": "progress" },
+  { "id": 11, "title": "test7", "status": "done" }
+]
